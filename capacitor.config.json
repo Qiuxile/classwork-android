@@ -1,0 +1,10 @@
+{
+  "appId": "com.classwork.app",
+  "appName": "Classwork",
+  "webDir": "www",
+  "server": {
+    "url": "https://classworks.wuyuan.dev/",
+    "cleartext": false,
+    "allowNavigation": ["classworks.wuyuan.dev"]
+  }
+}
